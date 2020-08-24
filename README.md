@@ -1,2 +1,3 @@
 # django-curso
-projeto do curso Python Pro Django
+Código desenvolvido no módulo de Django do www.python.pro.br
+
