@@ -1,5 +1,7 @@
 # django-curso
-Código desenvolvido no módulo de Django do www.python.pro.br
+Código desenvolvido no módulo de Django do [Site Python Pro](www.python.pro.br)
+
+Aplicação disponível em https://djangocursopythonpro2020.herokuapp.com/
 
 [![Build Status](https://travis-ci.org/renankemiya/django-curso.svg?branch=master)](https://travis-ci.org/renankemiya/django-curso)
 [![codecov](https://codecov.io/gh/renankemiya/django-curso/branch/master/graph/badge.svg)](https://codecov.io/gh/renankemiya/django-curso)
