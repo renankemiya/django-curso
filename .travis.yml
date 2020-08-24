@@ -1,14 +1,7 @@
 language: python
-dist: xenial
-sudo: true
 
 python:
   - 3.8
-
-env:
-  global:
-    - PIPENV_VENV_IN_PROJECT=1
-    - PIPENV_IGNORE_VIRTUALENVS=1
 
 install:
   - pip install pipenv
@@ -16,3 +9,6 @@ install:
 
 script:
   - pipenv run flake8
+
+after_success:
+  - codecov
